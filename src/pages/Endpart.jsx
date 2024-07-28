@@ -5,7 +5,7 @@ function Endpart() {
   return (
     <div className="footer-padding">
         <div class="footer">
-            <p>The Ashi Corporation</p>
+            <p>The Spark Foundation</p>
         </div>
 </div>
   )
