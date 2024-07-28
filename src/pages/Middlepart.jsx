@@ -5,7 +5,7 @@ const Middlepart = () => {
   return (
     <div className="middle">
       <div class="content container">
-        <h1>The Ashi Bank</h1>
+        <h1>The Spark Bank</h1>
         <p>
           This website is the result of an internship project and does not
           necessarily reflect the opinions or views of any organization or
